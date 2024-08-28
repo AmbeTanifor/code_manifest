@@ -1,2 +1,6 @@
 A test run of test.txt for my-second-repo
+# This is additional code for commit
 
+class car:
+  def __init__(self, make, model):
+    pass
