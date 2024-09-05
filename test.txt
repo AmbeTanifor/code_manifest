@@ -4,3 +4,5 @@ A test run of test.txt for my-second-repo
 class car:
   def __init__(self, make, model):
     pass
+  def drive(self):
+    print("Driving the latest Lincoln Navigator")
